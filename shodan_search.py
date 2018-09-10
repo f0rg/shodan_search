@@ -14,7 +14,7 @@ def usage():
     sys.exit()
 
 # Now start the crutial part of the program...
-# The code to search for Apache using Shodan API
+# The code to search using Shodan API
 
 def shodan_search():
 
@@ -65,7 +65,7 @@ def main():
     if(len(sys.argv) < 3):
         usage()
 
-    # Else run through shodan_apache()
+    # Else run through shodan_search()
     shodan_search()
 
 main()
