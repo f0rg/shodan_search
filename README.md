@@ -8,7 +8,7 @@ In order to run this script you have to install the shodan Python lib. The comma
 
 pip install shodan
 
-Usage: python shodan_search.py <file> <shodan_api_key> <parameters>
+Usage: python shodan_search.py (file) (shodan_api_key) (parameters)
   
 All the args are required. 
 
