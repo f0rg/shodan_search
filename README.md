@@ -1,3 +1,5 @@
+# NOTE: Hi Shinobi and other shitters. <3
+
 # shodan_search
 A script that allows the user to scrape Shodan API using certain parameters that are provided via sys.argv[] in Python.
 
